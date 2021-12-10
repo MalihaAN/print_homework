@@ -1,2 +1,2 @@
-# print_homework ( _ )
+print            ( _ )
                   ) (
